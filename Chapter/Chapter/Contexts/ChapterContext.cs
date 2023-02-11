@@ -13,11 +13,12 @@ namespace Chapter.Contexts
         {
             if (!optionsBuilder.IsConfigured) 
             { 
-                optionsBuilder.UseSqlServer("Data Source = ESN000N1241223\\SQLEXPRESS; initial catalog= Chapter; Integrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = ESN000N1241223\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true; TrustServerCertificate = true");
             }
         }
           
-        public DbSet<Livro> Livros { get; set; }    
+        public DbSet<Livro> Livros { get; set; } 
+       public DbSet<Usuario> Usuarios { get; set; }
 
     }
 }
