@@ -1,6 +1,7 @@
 ﻿using Chapter.Interfaces;
 using Chapter.Models;
 using Chapter.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,6 +11,7 @@ namespace Chapter.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
+    [Authorize(Roles = "1")]
     public class LivroController : ControllerBase
     {
         private readonly ILivroRepository _iLivroRepository;
@@ -50,7 +52,7 @@ namespace Chapter.Controllers
                 throw new Exception(e.Message);
             }
         }
-
+        [Authorize(Roles = "1")]
         [HttpPost]
         public IActionResult Cadastrar(Livro livro)
         {

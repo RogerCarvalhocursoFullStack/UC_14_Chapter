@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SHeZK4QjDdOLt2xMmNqQCydKe55bO7YaWlxLInt0r9gfrN9jX+w78wknZ9RusPn6GS8MWtreNqYqJs/nZr4XwA==",
+  "dgSpecHash": "MJy/NbmWCMZCLHIFIq3i2lk2aEWPQkNGMBXFEEWGQl4naEimfBF/SEhQkCKqCfuwGjn/k64yT3xWBTBYMobTCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sn1005400\\OneDrive - SESISENAISP - Corporativo\\Área de Trabalho\\Curso FULL STACK\\UC 14 - Desenvolvimento de APIs\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sn1005400\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sn1005400\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\sn1005400\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
     "C:\\Users\\sn1005400\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sn1005400\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sn1005400\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

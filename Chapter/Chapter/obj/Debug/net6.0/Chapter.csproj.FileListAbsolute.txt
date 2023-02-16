@@ -77,3 +77,4 @@ C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso 
 C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 14 - Desenvolvimento de APIs\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.pdb
 C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 14 - Desenvolvimento de APIs\Chapter\Chapter\Chapter\obj\Debug\net6.0\Chapter.genruntimeconfig.cache
 C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 14 - Desenvolvimento de APIs\Chapter\Chapter\Chapter\obj\Debug\net6.0\ref\Chapter.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 14 - Desenvolvimento de APIs\Chapter\Chapter\Chapter\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
